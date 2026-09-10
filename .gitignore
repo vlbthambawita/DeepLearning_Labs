@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MNIST download folder created by Lab 04 (torchvision datasets)
+data/
